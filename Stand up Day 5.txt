@@ -1,0 +1,17 @@
+﻿Day 5
+Riya: So for the last week I learned SQL and Java. I find SQl interesting and easy. I am working on SQL for my project right now, i haven't got much. 
+
+
+Levi said he picked up SQL quickly and is pretty good at that. He is working on backend of the project. He has his repositories setup.
+
+
+Veronica : Her project is going okay. She Enjoyed learning SQL. She is planning to work on her project this weekend. 
+
+
+Tenacy: She learned a lot this week and was a little overwhelmed. She is also working on her project  and felt less intimidated .
+
+
+Catherine: She said Sql was the best thing this week. She is not as far as she wishes to be on her project. She is also planning to work on weekends. 
+
+
+Ross: HE said he enjoyed learning Dbever and SQL and also Loved that we got to work as a team. He likes to Work in a group as a team.

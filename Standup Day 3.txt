@@ -1,0 +1,12 @@
+﻿Standup Day 3
+
+
+Riya: I like learning SQL. I feel like it is comparatively easier than bash. 
+Levi: He was a little nervous to learn SQL as he have not learn this before. He said this is pretty straight forward and feels like the English language.
+Veronica: She said after little practice she felt better about SQL. She liked SQl.
+Catherina: She said she enjoyed it. She was able to pick up certain functions easily compared to bash. 
+Tenece: She felt relieved after learning SQL because it was not as hard as bash.  She felt bash was pretty hard.
+Ross: He said he is very comfortable with Dbever and SQl.
+
+
+We also discussed how we can start working on project 0 and discuss the ideas we have. We discussed the layout and how our database is going to look like.

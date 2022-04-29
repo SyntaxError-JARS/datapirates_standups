@@ -1,0 +1,17 @@
+﻿DAy 4:
+Levi: He said he was nervous to learn SQl but really enjoyed it. He felt like coding in SQL was typing English language in SQl.
+
+
+VEronica: She enjoyed SQL and said after practicing it was more fun.
+
+
+Catherine: She said she enjoyed SQL  as she was able to pickup certain function compare to bash.
+
+
+Tenyce: : She felt relieved after learning SQl  as bash was pretty hard. 
+
+
+Ross: He said he felt comfortable using Dbeaver and SQl.
+
+
+Riya: I was comfortable using Sql but needed more practice.

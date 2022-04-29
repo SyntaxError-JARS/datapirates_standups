@@ -1,0 +1,29 @@
+﻿Day 1
+ Riya 
+I was happy that I got to learn about the new programming language Bash and also about Git and Github.
+I should work on vocabulary and how to format code.
+
+
+Levi:
+He’s glad he learned about Git Bash and Github, version control systems in general.
+He would like to improve his vocabulary as he knows what does that mean but it's hard to explain.
+
+
+Veronica
+She’s glad that she learned about scripting and how to reuse code.
+She would like to study more terminology. 
+
+
+Catherine
+She’s glad she got the hang of VS code.
+She would like to work on how to format code in general as she knows what that code does but is unable to format. 
+
+
+Tenece
+She’s glad she  knows how to navigate resources through slack and git.
+She would like to work on describing process and technical terms.
+
+
+Ross 
+He’s glad that he got to meet new people and work in a team. He is happy about the group learning process.
+He would like to learn strategy so that he could focus and  work properly in a particular platform as he got knowledge of various platforms.
