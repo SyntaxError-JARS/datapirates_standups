@@ -1,0 +1,35 @@
+﻿Ross
+
+
+Learned a lot about jdbc connections to the database and tools such as Maven.
+He is using all the pillars of OOP in his own project. He is trying to get get himself to testing.
+
+
+Tenyce
+
+
+Learning all things Java is exciting but scary. She learned a lot about Java and her project is coming along. 
+
+
+Catherine
+
+
+Yesterday was very hard and she is playing catch up. She is starting to pick up Java but feels she has to work twice as hard. Missing the days was hard.
+
+
+Veronica
+
+
+Everything is going okay. Having trouble focusing on project for more then 20 minutes. After connecting SQL and java she feels pretty okay about it. She is starting to make things work.
+
+
+Riya
+
+
+She is getting the basics of java down. She feels she needs more time to catch up. Feeling stressed. Only can focus for 20 minutes. 
+
+
+Levi
+
+
+My project is coming along well. I am excited to implement some of my menus into html and CSS.
