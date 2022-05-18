@@ -1,0 +1,21 @@
+week 4 day 2
+
+tenyce: 
+project: Worked on project through the weekend . search .errors.. unit testing . postman, welcome, update. 
+challenge: learning through the project
+
+Veronica: 
+finished servlets, happy,, errors coming . whats wrong? fixed. .. progress. 
+html and project steps meeted.
+
+Ross: 
+Confused but happy about the new subjects.  right steps with api, database relation resolved. ok
+
+Riya: 
+working on my project while learning alot. code and database ready. testing the postman..
+
+levi: 
+workimg on establishment and updating the application.
+
+Catherine:
+Although I still feel like I'm behind I'm starting to get the hang of putting my project together and debugging any sort of issues that I face.
