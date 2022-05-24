@@ -1,0 +1,25 @@
+﻿Data Pirates-StandUps
+5/20/2022
+-TM
+
+
+P1
+What are you excited about re: the upcoming project?
+
+
+Levi- Using Node Js,  learning/implementing new tools, and thinking about a theme and looking forward to having one soon. 
+
+
+Veronica- Learning hibernate on my own. Am mostly thinking about MVP, but am looking forward to doing fun things with it too. 
+
+
+Tenyce- Excited about learning how to use the technology and the experience of planning/creating a new project. 
+
+
+Geoffrey- Taking the theme from last project "Disco Elysium" and applying it, maybe. Excited about learning hibernate and about using Jira. 
+
+
+Ryan-Excited about the expanded tech stack, including ReactJS, Azure and Hibernate.
+
+
+Catherine- Excited about the new tech incorporated, and  about Geoffrey's theme idea "Disco Elysium".
