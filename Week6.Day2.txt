@@ -1,0 +1,24 @@
+﻿Data Pirates-StandUps
+5/24/2022
+
+
+
+
+P1
+How's it going so far? What challenges have you run into?
+
+
+Levi- Yesterday, Veronica and I added all classes, database setup, and got the skeleton done. Need to do testing, ect.
+
+
+Geoffery- Skeleton done Friday. Catherine worked on models yesterday. Today's goal= get dao done. Roadblock = Catherine had internet problems.
+
+
+Veronica- Off to a pretty good start. Working on building the rest of the classes today- need to do daos today. 
+
+
+Catherine- Same as Geoffery said– got a good amount done so far. My internet went out last night in the middle of working on the project.
+
+
+Tenyce- Ryan and I came up with an outline Friday. We have our tables done, and have started creating classes in IntelliJ. I'm not sure if Ryan's going to continue w/ Revature–
+Awaiting a response to see if I'll have a p1 partner. Either way, I'm going to press on.
