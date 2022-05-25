@@ -1,23 +1,23 @@
 ﻿Data Pirates-StandUps
-5/24/2022
--TM
+5/25/2022
 
 
-P1
-How project going so far? What challenges have you run into?
 
 
-Levi- Yesterday, Veronica and I added all classes, database setup, and got the skeleton done. Need to do testing, ect.
+Re P1: Where are you in the process? What are you working on? Any problems?
 
 
-Geoffery- Skeleton done Friday. Catherine worked on models yesterday. Today's goal= get dao done. Roadblock = Catherine had internet problems.
+ Veronica: It's going well- Built some of Daos yesterday. Ran into a problem connecting react to IntelliJ. Hoping to resolve it today.
 
 
-Veronica- Off to a pretty good start. Working on building the rest of the classes today- need to do daos today. 
+Catherine: We're making good progress– Started on services yesterday. Problem working on separate branches, and then figuring out the best way to merge. We get errors/problems, but It's usually something small–we're working through it.
 
 
-Catherine- Same as Geoffery said– got a good amount done so far. My internet went out last night in the middle of working on the project.
+Geoffrey: Did some Debugging with Catherine yesterday. Going to work on the dao today and do some testing. 
 
 
-Tenyce- Ryan and I came up with an outline Friday. We have our tables done, and have started creating classes in IntelliJ. I'm not sure if Ryan's going to continue w/ Revature–
-Awaiting a response to see if I'll have a p1 partner. Either way, I'm going to press on.
+Levi: Added an interface and daos skeleton for the project. 
+
+
+Tenyce: As of yesterday, I have 2 new team mates. We met yesterday to compare notes, plan an approach, and set individual goals. I'm working on the service layer, and learning React.
+Not sure what problems we'll run into as a group (each using different OS'). We each created our own branches yesterday- we'll see what happens when our code is combined–check in later today.
