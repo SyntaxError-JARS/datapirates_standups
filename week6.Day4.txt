@@ -1,0 +1,20 @@
+﻿Data Pirates- Standups
+05/26/2022
+
+
+P1 Check In:
+
+
+Levi- Added Test Servlet class. Working with Azure today.
+
+
+Geoffrey- All servlets are done, including ContextLoaderListener. Switching to Azure today. Did a lot of error-fixing yesterday. 
+
+
+Catherine- Making good progress. Had errors in code- It's been difficult figuring out the problem, but Geoffrey's been a big help. 
+
+
+Veronica- Figured out Hibernate problem, 
+
+
+Tenyce- Set up Azure and React, but working on the backend code for the next few days.
