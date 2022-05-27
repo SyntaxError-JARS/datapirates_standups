@@ -1,0 +1,23 @@
+﻿5/26/2022
+Standups:
+
+
+P1 Update
+
+
+Geoffrey- 
+Got ContextLoaderListener done & Azure is working. Ran Tomcat and found alot of problems in hibernate-was using the wrong post to translate. 
+
+
+Levi- Veronica and I, our hibernate is making deploy give a Null-Point Exception. Switched to Azure, now we're running into errors. 
+My API project (react) is tricky–doesn't give any error reasons. I don't have an API to present today because it's not working. 
+
+
+Catherine- We've made good progress. Ran into issues, but have been able to work them out. Had a React problem- API chosen wasn't valid. Ran the URL in postman only to find out I had a lot of specific errors. 
+
+
+Tenyce- Worked on My API Project, some of P1's back end, and Azure yesterday. I'm unfamiliar with React, but am enjoying learning about it. We're getting through the backend, slowly. Will work with Hibernate monday.
+
+
+Veronica- Add some services, serletts yesterday. Hopefully we can work ut our problems today. 
+My API- Got a lot of errors. My code kept making the localhost:3000 page go blank.
